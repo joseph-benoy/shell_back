@@ -4,6 +4,10 @@ Backup utitliy using shell script
 ## Usage
 Copy the back function to .bashrc and save
 
-Open terminal and enter the command ``back folder_to_backup`` or simply ``back`` if you want to back the current working directory.
+### Backup
+Open terminal from the directory which you want to backup. Then simply enter the command ``back`` to backup the folder.
 
-Backed up file will be under /home/user/.back_util folder
+### Restore
+Open terminal under any location. Enter the command ``restore`` and enter the name of the backup file from the list.
+
+Backed up files will be under /home/user/.back_util folder
