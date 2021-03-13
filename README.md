@@ -2,7 +2,7 @@
 Backup utitliy using shell script
 
 ## Usage
-Copy the back function to .bashrc and save
+Copy the back() and restore() functions to .bashrc and save
 
 ### Backup
 Open terminal from the directory which you want to backup. Then simply enter the command ``back`` to backup the folder.
